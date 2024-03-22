@@ -1,2 +1,2 @@
-##Readme Practice
-##README.md## (markdown) is a practice course
+**Readme Practice**
+**README.md** (markdown) is a practice course
